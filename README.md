@@ -1,14 +1,13 @@
 # Temporal Binding Window
 
-These matlab scripts compute the temporal binding window (TBW) for a group of subject that participated in a behavioral multisensory integration study. The final output will look similar to Figure 2 in the paper [Stevenson, R. A., Zemtsov, R. K., & Wallace, M. T. (2012). Individual differences in the multisensory temporal binding window predict susceptibility to audiovisual illusions. *Journal of Experimental Psychology: Human Perception and Performance, 38(6)*, 1517. http://dx.doi.org/10.1037/a0027339](http://psycnet.apa.org/journals/xhp/38/6/1517/).
+These matlab scripts compute the temporal binding window (TBW) for a group of subject that participated in a behavioral multisensory integration study. The final output will look similar to Figure 2 in the paper [Stevenson et al. (2012). Individual differences in the multisensory temporal binding window predict susceptibility to audiovisual illusions](http://psycnet.apa.org/journals/xhp/38/6/1517/).
 
 
 # Citation
 
 [![DOI](https://zenodo.org/badge/DOI/10.000/zenodo.00000.svg)](https://doi.org/10.000/zenodo.00000)
 
-If you use these scripts in your project, please cite it as: Notter, Michael Philipp. (2017). Pupillometry Analyzer: a lightweight matlab tool to pre-process pupillometry data [Data set]. Zenodo. [http://doi.org/10.5281/zenodo.580285](http://doi.org/10.5281/zenodo.580285).
-
+If you use these scripts in your project, please cite it as: Notter, Michael P., & Murray, Micah M. (2017). Temporal Binding Window scripts: a lightweight matlab tool to analyse the temporal binding window in a multisensory integration study [Data set]. Zenodo. [http://doi.org/10.000/zenodo.00000](http://doi.org/10.000/zenodo.00000).
 
 The script ``shadedErrorBar.m`` that creates the shaded error bar in the group figure was created by Rob Campbell and can be found here: [https://github.com/raacampbell/shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)
 
@@ -25,4 +24,4 @@ After running ``subj = tbw_subj('dataset.xlsx')``, you should have a result figu
 
 Now, you are ready to run compute the mean TBW of the group. To do this, you need to run the command ``tbw_group(subj)``. This creates the final outputs:
 
-<img src="static/result_TBC_categ03.png"> <img src="static/result_TBW_categ03.png">
+<img src="static/result_TBC_categ03.png" width="400"> <img src="static/result_TBW_categ03.png" width="400">
