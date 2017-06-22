@@ -20,8 +20,8 @@ The ``tbw_subj.m`` script expects as input an xlsx-file that contains the behavi
 
 After running ``subj = tbw_subj('dataset.xlsx')``, you should have a result figure for each subject that shows you the subject individual TBW for all categories, as well as for each category individually:
 
-<img src="static/result_sub05.png" width="200">
+<img src="static/result_sub05.png" width="600">
 
 Now, you are ready to run compute the mean TBW of the group. To do this, you need to run the command ``tbw_group(subj)``. This creates the final outputs:
 
-<img src="static/result_TBC_categ03.png" width="200"> <img src="static/result_TBW_categ03.png" width="200">
+<img src="static/result_TBC_categ03.png" width="600"> <img src="static/result_TBW_categ03.png" width="600">
