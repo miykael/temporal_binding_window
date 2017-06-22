@@ -24,4 +24,4 @@ After running ``subj = tbw_subj('dataset.xlsx')``, you should have a result figu
 
 Now, you are ready to run compute the mean TBW of the group. To do this, you need to run the command ``tbw_group(subj)``. This creates the final outputs:
 
-<img src="static/result_TBC_categ03.png" width="400"> <img src="static/result_TBW_categ03.png" width="400">
+<img src="static/result_TBC_categ03.png" width="200"> <img src="static/result_TBW_categ03.png" width="200">
