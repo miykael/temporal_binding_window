@@ -5,9 +5,9 @@ These matlab scripts compute the temporal binding window (TBW) for a group of su
 
 # Citation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.815877.svg)](https://doi.org/10.5281/zenodo.815877)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.815876.svg)](https://doi.org/10.5281/zenodo.815876)
 
-If you use these scripts in your project, please cite it as: Notter, Michael P., & Murray, Micah M. (2017). Temporal Binding Window scripts: a lightweight matlab tool to analyse the temporal binding window in a multisensory integration study. Zenodo [http://doi.org/10.5281/zenodo.815877](http://doi.org/10.5281/zenodo.815877).
+If you use these scripts in your project, please cite it as: Notter, Michael P., & Murray, Micah M. (2017). Temporal Binding Window scripts: a lightweight matlab tool to analyse the temporal binding window in a multisensory integration study. Zenodo [http://doi.org/10.5281/zenodo.815876](http://doi.org/10.5281/zenodo.815876).
 
 The script ``shadedErrorBar.m`` that creates the shaded error bar in the group figure was created by Rob Campbell and can be found here: [https://github.com/raacampbell/shadedErrorBar](https://github.com/raacampbell/shadedErrorBar)
 
