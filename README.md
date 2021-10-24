@@ -5,7 +5,6 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/miykael/temporal_binding_window.svg)](https://GitHub.com/miykael/temporal_binding_window/graphs/contributors/)
 [![GitHub Commits](https://github-basic-badges.herokuapp.com/commits/miykael/temporal_binding_window.svg)](https://github.com/miykael/temporal_binding_window/commits/master)
 [![GitHub size](https://github-size-badge.herokuapp.com/miykael/temporal_binding_window.svg)](https://github.com/miykael/temporal_binding_window/archive/master.zip)
-[![GitHub HitCount](http://hits.dwyl.io/miykael/temporal_binding_window.svg)](http://hits.dwyl.io/miykael/temporal_binding_window)
 
 These matlab scripts compute the temporal binding window (TBW) for a group of subject that participated in a behavioral multisensory integration study. The final output will look similar to Figure 2 in the paper [Stevenson et al. (2012). Individual differences in the multisensory temporal binding window predict susceptibility to audiovisual illusions](http://psycnet.apa.org/journals/xhp/38/6/1517/).
 
